@@ -1,0 +1,11 @@
+.navbar {
+    background-color: aqua;
+}
+
+.navbar .navbar-brand img {
+    width: 60px;
+}
+
+.navbar .nav-item {
+    text-decoration-color: tomato;
+}
